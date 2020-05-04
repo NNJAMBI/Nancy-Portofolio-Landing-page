@@ -1,4 +1,4 @@
-# {Nancy Karana Portofolio}
+# {Nancy Karanja Portofolio}
 #### {My first Bio page with information of about me and my hobbies}, {4/5/2020}
 #### By **{List of contributors}**
 ## Description
