@@ -1,4 +1,7 @@
 body {
-    color: blue;
-    font-size: 14px;
+background-image: url('../images/Mt Kilimanjaro.jpg');
+}
+
+h1 {
+  color: teal
 }
