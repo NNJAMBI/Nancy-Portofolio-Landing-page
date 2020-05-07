@@ -1,7 +1,16 @@
 body {
 background-image: url('../images/Mt Kilimanjaro.jpg');
+margin: 75px
 }
 
 h1 {
   color: teal
+}
+
+#aboutpagaragraph {
+  margin-left:50px
+}
+
+ul li{
+  margin-left:30px
 }
