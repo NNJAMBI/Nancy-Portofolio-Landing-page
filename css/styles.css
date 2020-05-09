@@ -1,23 +1,67 @@
 body {
 background-image: url('../images/Mt Kilimanjaro.jpg');
-margin: 75px
+margin: 20px 75px;
 }
 
 h1 {
-  color: teal
+  color: teal;
 }
 
 #aboutpagaragraph {
-  margin-left:50px
+    margin-left:50px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-style: italic;
+    text-align: center;
 }
 
 ul li{
-  margin-left:30px
+  margin-left:30px;
 }
 #profilepic{
   height: 200px;
   width: 300px;
-  float: right;
-  margin-top:-30px;
+  float: left;
+  /* margin-top:-5px; */
   border-radius: 50%;
 }
+
+li.ul1 a {
+    display:block;
+    color: #484725fc;
+    font-size: 25px;
+    text-align: center;
+    padding: 50px 10px 50px 10px;
+    margin-top: -40px;
+    text-decoration: none;
+}
+ul.ul1 {
+  list-style-type: none;
+  margin-top:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c4e0e800;
+}
+li.ul1 {
+  float: right;
+
+}
+#hero{
+	text-align: center;
+}
+#hero h1{
+	color:green;
+	font-size: 30px;
+	font-family: serif;
+	padding-top: 2%;
+}
+#Achievements{
+margin-left: 150px;
+font-size:20px ;
+
+}
+
+/* footer{
+text-align: left;
+} */
+
