@@ -1,6 +1,11 @@
 body {
 background-image: url('../images/Mt Kilimanjaro.jpg');
 margin: 20px 75px;
+background-color: #cccccc;
+height:1000px;
+background-position:top;
+background-repeat: no-repeat;
+
 }
 
 h1 {
@@ -13,6 +18,7 @@ h1 {
     letter-spacing: 1px;
     font-style: italic;
     text-align: center;
+    color:black;
 }
 
 ul li{
